@@ -34,10 +34,5 @@ module.exports = {
       custom: ''
     })
   ],
-  devServer: {
-    contentBase: path.join(__dirname, 'dist'),
-    port: 4000
-  },
-  mode: 'development',
-  devtool: 'source-map'
+  mode: 'production',
 };
