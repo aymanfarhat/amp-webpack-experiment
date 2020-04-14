@@ -22,10 +22,6 @@
     "preact": "^10.4.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/plugin-transform-react-jsx": "^7.9.4",
-    "@babel/preset-env": "^7.9.5",
-    "babel-loader": "^8.1.0",
     "html-webpack-inline-chunk-plugin": "^1.1.1",
     "html-webpack-inline-source-plugin": "0.0.10",
     "html-webpack-plugin": "^4.2.0",
